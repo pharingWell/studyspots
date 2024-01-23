@@ -3,7 +3,7 @@
 __Developers:__ Tyler Donovan, Henry Evans, Charlotte Zhang, Sebastian Fugle, Paula Delgado
 
 # Website Link
-http://studyspot.live/
+https://studyspot.live/
 
 # Herokuapp Link: 
 https://b02-site-ed63d9be471c.herokuapp.com
